@@ -1,4 +1,4 @@
-# Ipregion
+# IPregion
 
 this simple gem has the objective of geolocating an IPv4 or IPv6. It brings the follo
 wing information: country, city. region, latitude, longitude, org.
